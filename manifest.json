@@ -1,0 +1,22 @@
+{
+  "name": "Take a Break",
+  "description": "Reminds you to take breaks to rest your eyes and stay healthy while coding CS50.",
+  "version": "1.0",
+  "manifest_version": 3,
+  "background": {
+    "service_worker": "background.js"
+  },
+  "icons": {
+    "16": "alarm.png",
+    "32": "alarm.png",
+    "48": "alarm.png",
+    "128": "alarm.png"
+  },
+  "permissions": ["alarms", "notifications", "storage"],
+  "action": {
+    "default_popup": "popup.html",
+    "default_icon": "alarm.png"
+  },
+  "author": "Luís Ari Andrade Almeida",
+  "homepage_url": "https://github.com/la-12111/takeabreak"
+}

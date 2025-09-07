@@ -1,57 +1,52 @@
 # Take a Break
 
-Remind yourself to take break from computer screen for a while.
-([Video demo](video html))
+Remind yourself to take a break for a while away from computer.
+[Video demo](https://youtu.be/F6LZ3om_k1o) -> I need to change here.
 
 ## Description
 
-[I am on my computer all the time. This has had a really bad impact on my eyes and my back. I often used to forget to drink water or take a break. That also meant I used to keep siting for a long time.
+I noticed how easy it is to lose track of time when using a computer, which can lead to eye strain, back discomfort, and forgetting simple habits like drinking water.
 
-That is why I created this Chrome Extension. With the help of this extension, I am reminded to take a break, stand, and look away from the screen every 20 minutes. I choose 20 minutes because that is what Healthline suggests in their "[How Does the 20-20-20 Rule Prevent Eye Strain?](https://www.healthline.com/health/eye-health/20-20-20-rule#:~:text=What's%20the%2020%2D20%2D20,a%20total%20of%2020%20seconds.)" article.
+To help with that, I built this Chrome extension. It sends gentle reminders to pause, stretch, and shift your focus away from the screen at regular intervals. By default, it follows the idea behind the "[How Does the 20-20-20 Rule Prevent Eye Strain?](https://www.healthline.com/health/eye-health/20-20-20-rule#:~:text=What's%20the%2020%2D20%2D20,a%20total%20of%2020%20seconds.) — taking a break every 20 minutes to rest your eyes — but you can adjust the timing to match your own routine.
 
-This Chrome extension can help you not only prevent eye strain but also help you stay hydrated and stand for a bit every 20 minutes. You can, of course, easily tweak the interval as you please with basic customization.
+This tool is designed to support healthier screen use by encouraging short breaks, improving posture, and promoting hydration throughout the day.
 
-**Note:** This extension was originally submitted as my final project for [Harvard's CS50 course](https://cs50.harvard.edu/x).]
+**Note:** This extension was originally submitted as my final project for [Harvard's CS50 course](https://cs50.harvard.edu/x).
 
 ## Getting Started
 
 ### Dependencies
 
-* Any Chromium-based browser. For example: Google Chrome, Microsoft Edge, Arc
+* Any Chromium-based browser (e.g., Google Chrome, Microsoft Edge, Arc).
 
 ### Installing the extension
 
-![How to install Take a Break Chrome Extension][(https://github.com/surajcdry/stayhealthy/blob/main/installing.png?raw=true)]
-* **Step 1:** Click on Code
-* **Step 2:** Click on "Download ZIP"
-* **Step 3:** Unzip the downloaded folder
-* **Step 4:** Go to [chrome://extensions/](chrome://extensions/)
-* **Step 5:** Turn on Developer Mode from the right top corner
-* **Step 6:** Click on "Load Unpacked" from the left-top corner
-* **Step 7:** Select the extension's folder that you just unzipped
-* **Step 8:** Pin the "Stay Healthy" extension by clicking on the extension icon on the right-top of your browser
-* **Step 9:** Click on "Stay Healthy" extension
-* **Step 10:** Click on the "Keep me healthy" button
+![How to install Take a Break Chrome Extension](https://github.com/surajcdry/stayhealthy/blob/main/installing.png?raw=true) -> Need to change here
 
-That's it. You will be reminded to take a break, stand, and look away every 20 minutes.
+1. Click on **Code**.
+2. Click on **Download ZIP**.
+3. Unzip the downloaded folder.
+4. Open [chrome://extensions/](chrome://extensions/) in your browser.
+5. Enable **Developer Mode** (toggle in the top right corner).
+6. Click **Load Unpacked** (top left corner).
+7. Select the unzipped extension folder.
+8. Pin the **Take a Break** extension by clicking the puzzle icon and pinning it.
+9. Click on the **Take a Break** extension icon.
+10. Set your preferred reminder interval and click **Start**.
+
+That’s it! You will be reminded to take breaks, stand, and look away every set interval.
 
 ## Help
 
-You can reach out to me if you have any questions
-```
-suraj@surajc.com
-```
+If you have any questions, feel free to reach out: luis.ari.855@outlook.com
 
 ## Author
 
-Suraj Chaudhary
-([@SurajCdry](https://twitter.com/surajcdry))
+Luís Ari Andrade Almeida
 
 ## Version History
 
 * 1.0
-    * Initial commit
-
 
 ## License
 
