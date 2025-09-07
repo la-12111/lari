@@ -21,7 +21,7 @@ This tool is designed to support healthier screen use by encouraging short break
 
 ### Installing the extension
 
-![How to install Take a Break Chrome Extension](https://github.com/surajcdry/stayhealthy/blob/main/installing.png?raw=true) -> Need to change here
+![How to install Take a Break Chrome Extension](https://github.com/la-12111/takeabreak/blob/main/installing.png)
 
 1. Click on **Code**.
 2. Click on **Download ZIP**.
