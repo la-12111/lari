@@ -1,6 +1,6 @@
 {
   "name": "Take a Break",
-  "description": "Reminds you to take breaks to rest your eyes and stay healthy while coding CS50.",
+  "description": "Reminds you to take breaks and rest your eyes away from the computer screen.",
   "version": "1.0",
   "manifest_version": 3,
   "background": {
